@@ -1,1 +1,252 @@
-
+[
+ {
+   "id": 1,
+   "dapan": "KAKASHI-HATAKE",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kakashi Hatake.png"
+ },
+ {
+   "id": 2,
+   "dapan": "NARUTO-UZUMAKI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Naruto Uzumaki.png"
+ },
+ {
+   "id": 3,
+   "dapan": "ITACHI-UCHIHA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Itachi Uchiha.png"
+ },
+ {
+   "id": 4,
+   "dapan": "MINATO-NAMIKAZE",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Minato Namikaze.png"
+ },
+ {
+   "id": 5,
+   "dapan": "GAARA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Gaara.png"
+ },
+ {
+   "id": 6,
+   "dapan": "JIRAIYA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Jiraiya.png"
+ },
+ {
+   "id": 7,
+   "dapan": "SHIKAMARU-NARA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Shikamaru Nara.png"
+ },
+ {
+   "id": 8,
+   "dapan": "HINATA-HYUGA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Hinata Hyuga.png"
+ },
+ {
+   "id": 9,
+   "dapan": "NEJI-HYUGA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Neji Hyuga.png"
+ },
+ {
+   "id": 10,
+   "dapan": "SASUKE-UCHIHA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Sasuke Uchiha.png"
+ },
+ {
+   "id": 11,
+   "dapan": "MIGHT-GUY",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Might Guy.png"
+ },
+ {
+   "id": 12,
+   "dapan": "ROCK-LEE",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Rock Lee.png"
+ },
+ {
+   "id": 13,
+   "dapan": "PAIN",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Pain.png"
+ },
+ {
+   "id": 14,
+   "dapan": "TSUNADE",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Tsunade.png"
+ },
+ {
+   "id": 15,
+   "dapan": "MADARA-UCHIHA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Madara Uchiha.png"
+ },
+ {
+   "id": 16,
+   "dapan": "TEMARI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Temari.png"
+ },
+ {
+   "id": 17,
+   "dapan": "KUSHINA-UZUMAKI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kushina Uzumaki.png"
+ },
+ {
+   "id": 18,
+   "dapan": "ASUMA-SARUTOBI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Asuma Sarutobi.png"
+ },
+ {
+   "id": 19,
+   "dapan": "SAI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Sai.png"
+ },
+ {
+   "id": 20,
+   "dapan": "OBITO-UCHIHA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Obito Uchiha.png"
+ },
+ {
+   "id": 21,
+   "dapan": "KILLER-B",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Killer B.png"
+ },
+ {
+   "id": 22,
+   "dapan": "OROCHIMARU",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Orochimaru.png"
+ },
+ {
+   "id": 23,
+   "dapan": "NAGATO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Nagato.png"
+ },
+ {
+   "id": 24,
+   "dapan": "IRUKA-UMINO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Iruka Umino.png"
+ },
+ {
+   "id": 25,
+   "dapan": "SENJU-HASHIRAMA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Senju Hashirama.png"
+ },
+ {
+   "id": 26,
+   "dapan": "TOBIRAMA-SENJU",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Tobirama Senju.png"
+ },
+ {
+   "id": 27,
+   "dapan": "KIBA-INUZUKA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kiba Inuzuka.png"
+ },
+ {
+   "id": 28,
+   "dapan": "SHINO-ABURAME",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Shino Aburame.png"
+ },
+ {
+   "id": 29,
+   "dapan": "YAMATO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Yamato.png"
+ },
+ {
+   "id": 30,
+   "dapan": "KONAN",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Konan.png"
+ },
+ {
+   "id": 31,
+   "dapan": "KISAME-HOSHIGAKI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kisame Hoshigaki.png"
+ },
+ {
+   "id": 32,
+   "dapan": "ZABUZA-MOMOCHI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Zabuza Momochi.png"
+ },
+ {
+   "id": 33,
+   "dapan": "DEIDERA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Deidera.png"
+ },
+ {
+   "id": 34,
+   "dapan": "KONOHAMARU",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Konohamaru Sarutobi.png"
+ },
+ {
+   "id": 35,
+   "dapan": "TSUNADE-SENJU",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Tsunade Senju.png"
+ },
+ {
+   "id": 36,
+   "dapan": "INO-YAMANAKA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Ino Yamanaka.png"
+ },
+ {
+   "id": 37,
+   "dapan": "SASORI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Sasori.png"
+ },
+ {
+   "id": 38,
+   "dapan": "SHISUI-UCHIHA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Shisui Uchiha.png"
+ },
+ {
+   "id": 39,
+   "dapan": "CHOJI-AKIMICHI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Choji Akimichi.png"
+ },
+ {
+   "id": 40,
+   "dapan": "KANKURO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kankuro.png"
+ },
+ {
+   "id": 41,
+   "dapan": "SAKURA-HARUNO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Sakura Haruno.png"
+ },
+ {
+   "id": 42,
+   "dapan": "KURENAI-YUHI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kurenai Yuhi.png"
+ },
+ {
+   "id": 43,
+   "dapan": "HIDAN",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Hidan.png"
+ },
+ {
+   "id": 44,
+   "dapan": "TENTEN",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Tenten.png"
+ },
+ {
+   "id": 45,
+   "dapan": "HAKU",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Haku.png"
+ },
+ {
+   "id": 46,
+   "dapan": "HIRUZEN-SARUTOBI",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Hiruzen Sarutobi.png"
+ },
+ {
+   "id": 47,
+   "dapan": "HOKAGE",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Hokage.png"
+ },
+ {
+   "id": 48,
+   "dapan": "SHIKAKU-NARA",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Shikaku Nara.png"
+ },
+ {
+   "id": 49,
+   "dapan": "KIMIMARO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Kimimaro.png"
+ },
+ {
+   "id": 50,
+   "dapan": "AOBA-YAMASHIRO",
+   "linkanh": "https://raw.githubusercontent.com/gameanhtu/gamenaruto/master/imagesGame/Aoba Yamashiro.png"
+ }
+]
